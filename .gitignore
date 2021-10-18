@@ -1,0 +1,7 @@
+venv
+*pyc
+.vscode
+*csv
+*json
+*.txt
+*.logs
