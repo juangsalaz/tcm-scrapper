@@ -13,4 +13,8 @@ After installing Scrapy success, go to the */tcmscrapper* directory, then run th
 scrapy runspider <spider_file.py>
 ```
 
+## Result
+In this case, the scrapping script stored data into .csv file, this is example of the result
+
+https://github.com/juangsalaz/tcm-scrapper/blob/master/homepagedata.csv
 
