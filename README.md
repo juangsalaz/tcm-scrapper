@@ -1,5 +1,5 @@
 # tcm-scrapper
-Srcaping script using Python Scrapy Framework
+Scraping scholarship data from a website using using Python Scrapy Framework
 
 ## Installing Scrapy
 To running this scrapping script, you need to install Scrapy Framework first, with running
